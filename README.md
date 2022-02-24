@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PierrePriou, a PhD candidate in Fisheries Science.
+- 👋 Hi, I’m PierrePriou, a PhD candidate in Fisheries Science.
 - 👀 I’m interested in marine ecology with a focus on pelagic ecosystems. I use active acoustics to understand the distribution and behaviour of fish and zooplankton in the Arctic.
 - 🌱 I’m currently working with R, Python, and Julia. 
 - 📫 You can reach via email pierrepriou@gmail.com and pierre.priou@mi.mun.ca, or on Twitter @PierrePriou1
